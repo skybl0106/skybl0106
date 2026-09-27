@@ -1,26 +1,67 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:163A3A,55:197278,100:F2AA4C&height=200&section=header&text=skyBL0106&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Projects%20%7C%20Experiments%20%7C%20Learning&descAlignY=62&descSize=16" alt="skyBL0106: Projects, Experiments, Learning" />
+🌸 About Me — 私について
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=⚔️+Code+%7C+Create+%7C+Repeat;🌸+夢をコードに変える;🔥+Leveling+up+every+day;🌌+Welcome+to+my+digital+world..." /> </p> <img align="right" width="280" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+🎴 Character Profile
+╭──────────────────────────────╮
+│       ✦ PLAYER PROFILE ✦     │
+├──────────────────────────────┤
+│ 🧑 Name       : YOUR NAME    │
+│ ⚔️ Class      : Developer    │
+│ 🌸 Level      : ∞            │
+│ 🔥 Main Skill : Coding       │
+│ 💻 Weapon     : Keyboard     │
+│ 🧠 Power      : Creativity   │
+│ 🌌 World      : Digital      │
+│ 🎯 Quest      : Build & Learn│
+╰──────────────────────────────╯
 
-  <p><a href="https://github.com/skybl0106?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-197278?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a></p>
-</div>
+⚡ My Abilities
+████████████████████░ 95%  💻 Programming
+██████████████████░░░ 90%  🎨 UI / UX
+█████████████████░░░░ 85%  ⚡ Problem Solving
+████████████████░░░░░ 80%  🤖 AI / ML
+███████████████░░░░░░ 75%  🌐 Full Stack
+
+🌸 What I Do
+
+⚔️ I write code like a swordsman swings a blade.
+🎨 I design interfaces like an artist paints a world.
+🧠 I solve problems like a strategist plans a battle.
+🚀 And I keep leveling up every single day.
+
+🎮 Current Quest
+
+🌱 Master new technologies
+
+⚔️ Build powerful projects
+
+🤖 Explore AI & automation
+
+🌐 Create beautiful web experiences
+
+⭐ Contribute to open source
+
+🏆 Become a better developer
+
+🏮 My Anime Arc
+                 ╔══════════════════════╗
+                 ║    THE DEVELOPER     ║
+                 ╠══════════════════════╣
+                 ║                      ║
+                 ║   🌱 Beginner Arc    ║
+                 ║          ↓           ║
+                 ║   ⚔️ Training Arc    ║
+                 ║          ↓           ║
+                 ║   🔥 Developer Arc   ║
+                 ║          ↓           ║
+                 ║   🌌 ??? Arc         ║
+                 ║                      ║
+                 ╚══════════════════════╝
+
 <p align="center">
-  <a href="https://www.instagram.com/itz__akyaa/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/https://twitter.com/">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
-  </a>
-  <a href="walikara778@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
+「 努力・友情・成長 」
+Effort • Friendship • Growth
+
+🌸 まだ終わっていない。
+The journey isn't over yet.
+
 </p>
-
-## About
-
-💻I enjoy building modern and interactive applications
-
-🧠Always exploring new technologies and ideas
-
-## Find Me
-
-[GitHub profile](https://github.com/skybl0106) · [All repositories](https://github.com/skybl0106?tab=repositories)
