@@ -6,7 +6,9 @@
 
 ## About
 
-This is my corner of GitHub for projects, experiments, and things I'm learning along the way.
+💻I enjoy building modern and interactive applications
+
+🧠Always exploring new technologies and ideas
 
 ## Find Me
 
