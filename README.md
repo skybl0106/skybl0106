@@ -3,10 +3,22 @@
 
   <p><a href="https://github.com/skybl0106?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-197278?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a></p>
 </div>
+<p align="center">
+  <a href="https://www.instagram.com/itz__akyaa/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/https://twitter.com/">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="walikara778@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ## About
 
 💻I enjoy building modern and interactive applications
+
 🧠Always exploring new technologies and ideas
 
 ## Find Me
