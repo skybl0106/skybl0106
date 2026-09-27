@@ -7,7 +7,6 @@
 ## About
 
 💻I enjoy building modern and interactive applications
-
 🧠Always exploring new technologies and ideas
 
 ## Find Me
