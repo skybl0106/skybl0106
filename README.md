@@ -34,7 +34,7 @@ Browse [all my repositories](https://github.com/skybl0106?tab=repositories) to s
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skybl0106&bg_color=351018&color=f3d7d7&line=ff6978&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph for skybl0106" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skybl0106&theme=github_dark" alt="GitHub contribution line graph for skybl0106" width="100%" />
 </div>
 
 ## A Thought from the Dev Community
